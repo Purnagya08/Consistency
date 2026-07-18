@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Purnagya08/Consistency/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Purnagya08/Consistency/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Purnagya08/Consistency/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Purnagya08/Consistency/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Purnagya08/Consistency/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Purnagya08/Consistency/tree/master/0048-rotate-image) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Purnagya08/Consistency/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Purnagya08/Consistency/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Purnagya08/Consistency/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
