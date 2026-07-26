@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Purnagya08/Consistency/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Purnagya08/Consistency/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Purnagya08/Consistency/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Purnagya08/Consistency/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Purnagya08/Consistency/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Purnagya08/Consistency/tree/master/0048-rotate-image) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Purnagya08/Consistency/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Purnagya08/Consistency/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Purnagya08/Consistency/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Purnagya08/Consistency/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Purnagya08/Consistency/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/Purnagya08/Consistency/tree/master/0229-majority-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Purnagya08/Consistency/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Purnagya08/Consistency/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
