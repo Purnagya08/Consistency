@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Purnagya08/Consistency/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Purnagya08/Consistency/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Purnagya08/Consistency/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/Purnagya08/Consistency/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/Purnagya08/Consistency/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Purnagya08/Consistency/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Purnagya08/Consistency/tree/master/0628-maximum-product-of-three-numbers) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Purnagya08/Consistency/tree/master/3345-smallest-divisible-digit-product-i) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Purnagya08/Consistency/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
