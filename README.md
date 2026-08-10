@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Purnagya08/Consistency/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Purnagya08/Consistency/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Purnagya08/Consistency/tree/master/0151-reverse-words-in-a-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Purnagya08/Consistency/tree/master/1021-remove-outermost-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Purnagya08/Consistency/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Purnagya08/Consistency/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
@@ -137,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Purnagya08/Consistency/tree/master/0162-find-peak-element) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Purnagya08/Consistency/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Purnagya08/Consistency/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
