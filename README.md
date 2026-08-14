@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Purnagya08/Consistency/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Purnagya08/Consistency/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Purnagya08/Consistency/tree/master/0560-subarray-sum-equals-k) |
+| [1189-maximum-number-of-balloons](https://github.com/Purnagya08/Consistency/tree/master/1189-maximum-number-of-balloons) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Purnagya08/Consistency/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Purnagya08/Consistency/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Purnagya08/Consistency/tree/master/3731-find-missing-elements) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Purnagya08/Consistency/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/Purnagya08/Consistency/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Purnagya08/Consistency/tree/master/1021-remove-outermost-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/Purnagya08/Consistency/tree/master/1189-maximum-number-of-balloons) |
 | [1903-largest-odd-number-in-string](https://github.com/Purnagya08/Consistency/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Purnagya08/Consistency/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Purnagya08/Consistency/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Purnagya08/Consistency/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Purnagya08/Consistency/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Purnagya08/Consistency/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
 | ------- |
