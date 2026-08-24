@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Purnagya08/Consistency/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Purnagya08/Consistency/tree/master/0048-rotate-image) |
+| [0412-fizz-buzz](https://github.com/Purnagya08/Consistency/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Purnagya08/Consistency/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Purnagya08/Consistency/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Purnagya08/Consistency/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Purnagya08/Consistency/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Purnagya08/Consistency/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Purnagya08/Consistency/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Purnagya08/Consistency/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/Purnagya08/Consistency/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Purnagya08/Consistency/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Purnagya08/Consistency/tree/master/1189-maximum-number-of-balloons) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Purnagya08/Consistency/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Purnagya08/Consistency/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/Purnagya08/Consistency/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Purnagya08/Consistency/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Prefix Sum
 |  |
