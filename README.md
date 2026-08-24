@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Purnagya08/Consistency/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/Purnagya08/Consistency/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Purnagya08/Consistency/tree/master/1021-remove-outermost-parentheses) |
+| [1108-defanging-an-ip-address](https://github.com/Purnagya08/Consistency/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/Purnagya08/Consistency/tree/master/1189-maximum-number-of-balloons) |
 | [1903-largest-odd-number-in-string](https://github.com/Purnagya08/Consistency/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Purnagya08/Consistency/tree/master/1927-sum-game) |
