@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Purnagya08/Consistency/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Purnagya08/Consistency/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Purnagya08/Consistency/tree/master/3731-find-missing-elements) |
+| [3925-concatenate-array-with-reverse](https://github.com/Purnagya08/Consistency/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Purnagya08/Consistency/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Purnagya08/Consistency/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Purnagya08/Consistency/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/Purnagya08/Consistency/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
 | ------- |
