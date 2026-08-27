@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Purnagya08/Consistency/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Purnagya08/Consistency/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Purnagya08/Consistency/tree/master/0877-stone-game) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Purnagya08/Consistency/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Purnagya08/Consistency/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Purnagya08/Consistency/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Purnagya08/Consistency/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Purnagya08/Consistency/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Purnagya08/Consistency/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Purnagya08/Consistency/tree/master/0073-set-matrix-zeroes) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Purnagya08/Consistency/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## String
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Purnagya08/Consistency/tree/master/0162-find-peak-element) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Purnagya08/Consistency/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Stack
 |  |
 | ------- |
