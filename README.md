@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Purnagya08/Consistency/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Purnagya08/Consistency/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Purnagya08/Consistency/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Purnagya08/Consistency/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Purnagya08/Consistency/tree/master/0141-linked-list-cycle) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Purnagya08/Consistency/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Purnagya08/Consistency/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Purnagya08/Consistency/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/Purnagya08/Consistency/tree/master/0412-fizz-buzz) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Purnagya08/Consistency/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Purnagya08/Consistency/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Purnagya08/Consistency/tree/master/0043-multiply-strings) |
 | [0115-distinct-subsequences](https://github.com/Purnagya08/Consistency/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Purnagya08/Consistency/tree/master/0125-valid-palindrome) |
