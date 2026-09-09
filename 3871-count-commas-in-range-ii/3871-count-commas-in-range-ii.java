@@ -6,6 +6,6 @@ class Solution {
             res += n - p + 1;
             p *= 1000;
         }
-        return res;
+        return re;
     }
 } 
