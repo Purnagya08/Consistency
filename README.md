@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Purnagya08/Consistency/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Purnagya08/Consistency/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Purnagya08/Consistency/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Purnagya08/Consistency/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Purnagya08/Consistency/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Purnagya08/Consistency/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Purnagya08/Consistency/tree/master/1903-largest-odd-number-in-string) |
@@ -264,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Purnagya08/Consistency/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Purnagya08/Consistency/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
