@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Purnagya08/Consistency/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Purnagya08/Consistency/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Purnagya08/Consistency/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Purnagya08/Consistency/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Purnagya08/Consistency/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Purnagya08/Consistency/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Purnagya08/Consistency/tree/master/0137-single-number-ii) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Purnagya08/Consistency/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Purnagya08/Consistency/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Purnagya08/Consistency/tree/master/0231-power-of-two) |
 ## Tree
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Purnagya08/Consistency/tree/master/0836-rectangle-overlap) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Purnagya08/Consistency/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
