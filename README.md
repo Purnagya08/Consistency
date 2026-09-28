@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Purnagya08/Consistency/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Purnagya08/Consistency/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/Purnagya08/Consistency/tree/master/1189-maximum-number-of-balloons) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Purnagya08/Consistency/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Purnagya08/Consistency/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Purnagya08/Consistency/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Purnagya08/Consistency/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -239,11 +240,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Purnagya08/Consistency/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Purnagya08/Consistency/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Purnagya08/Consistency/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Purnagya08/Consistency/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Purnagya08/Consistency/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Purnagya08/Consistency/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
 | ------- |
