@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Purnagya08/Consistency/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Purnagya08/Consistency/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Purnagya08/Consistency/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Purnagya08/Consistency/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Purnagya08/Consistency/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Purnagya08/Consistency/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/Purnagya08/Consistency/tree/master/0162-find-peak-element) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Purnagya08/Consistency/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Purnagya08/Consistency/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/Purnagya08/Consistency/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
