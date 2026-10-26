@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Purnagya08/Consistency/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Purnagya08/Consistency/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Purnagya08/Consistency/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Purnagya08/Consistency/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Purnagya08/Consistency/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Purnagya08/Consistency/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Purnagya08/Consistency/tree/master/0836-rectangle-overlap) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Purnagya08/Consistency/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Purnagya08/Consistency/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Purnagya08/Consistency/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Purnagya08/Consistency/tree/master/0342-power-of-four) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Purnagya08/Consistency/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Purnagya08/Consistency/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Purnagya08/Consistency/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Purnagya08/Consistency/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Purnagya08/Consistency/tree/master/0342-power-of-four) |
 ## Tree
 |  |
 | ------- |
