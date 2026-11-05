@@ -6,7 +6,6 @@ class Solution {
     private int F(String S, int i, int j) {
         int ans = 0, bal = 0;
 
-        // Split string into primitives
         for (int k = i; k < j; ++k) {
             bal += S.charAt(k) == '(' ? 1 : -1;
             if (bal == 0) {
@@ -15,7 +14,6 @@ class Solution {
                 } else {
                     ans += 2 * F(S, i + 1, k);
                 }
-                // Move start pointer for the next primitive
                 i = k + 1; 
             }
         }
