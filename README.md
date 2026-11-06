@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Purnagya08/Consistency/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/Purnagya08/Consistency/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Purnagya08/Consistency/tree/master/0560-subarray-sum-equals-k) |
+| [0598-range-addition-ii](https://github.com/Purnagya08/Consistency/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Purnagya08/Consistency/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Purnagya08/Consistency/tree/master/0877-stone-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Purnagya08/Consistency/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Purnagya08/Consistency/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Purnagya08/Consistency/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Purnagya08/Consistency/tree/master/0412-fizz-buzz) |
+| [0598-range-addition-ii](https://github.com/Purnagya08/Consistency/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Purnagya08/Consistency/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Purnagya08/Consistency/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Purnagya08/Consistency/tree/master/0877-stone-game) |
