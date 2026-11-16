@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Purnagya08/Consistency/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Purnagya08/Consistency/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Purnagya08/Consistency/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Purnagya08/Consistency/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Purnagya08/Consistency/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Purnagya08/Consistency/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Purnagya08/Consistency/tree/master/3498-reverse-degree-of-a-string) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Purnagya08/Consistency/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Purnagya08/Consistency/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Purnagya08/Consistency/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Purnagya08/Consistency/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Purnagya08/Consistency/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Purnagya08/Consistency/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/Purnagya08/Consistency/tree/master/3925-concatenate-array-with-reverse) |
