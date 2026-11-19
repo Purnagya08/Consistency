@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Purnagya08/Consistency/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Purnagya08/Consistency/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Purnagya08/Consistency/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Purnagya08/Consistency/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Purnagya08/Consistency/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Purnagya08/Consistency/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Purnagya08/Consistency/tree/master/0073-set-matrix-zeroes) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Purnagya08/Consistency/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Purnagya08/Consistency/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Purnagya08/Consistency/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/Purnagya08/Consistency/tree/master/0877-stone-game) |
@@ -358,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Purnagya08/Consistency/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Purnagya08/Consistency/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
